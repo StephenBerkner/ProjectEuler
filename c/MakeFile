@@ -1,0 +1,5 @@
+CC=gcc
+CFLAGS=-I.
+
+p1: p1.o
+	$(CC) -o pl p1.o
