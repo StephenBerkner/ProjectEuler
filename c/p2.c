@@ -16,4 +16,5 @@ int main(){
         current = (previous + beforePrevious);
     }
     printf("Sum: %d\n", sum);
+    return 0;
 }
